@@ -2,7 +2,7 @@ import torch
 
 def eval(model,test_loader,device, noise_factor= 0.5):
     from .utils import add_noise
-
+ 
     model.eval()
     test_iter = iter(test_loader)
     test_imgs, _ = next(test_iter)
