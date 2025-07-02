@@ -15,7 +15,7 @@ You can install the required libraries using pip:
 ```bash
 pip install -r requirements.txt
 ```
-## Source Code
+## Source-Code
 [Source Code](https://github.com/Asma-Nasr/Image-Denoising/tree/main/src)
 
 ## Notebooks
