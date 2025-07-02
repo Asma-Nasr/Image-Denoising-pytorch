@@ -5,7 +5,7 @@ Image Denoising Using Auto-Encoder
 ## Table of Contents
 
 - [Requirements](#requirements)
-- [Source Code](#SourceCode)
+- [Source-Code](#SourceCode)
 - [Notebooks](#Notebooks)
 - [Usage](#usage)
 
