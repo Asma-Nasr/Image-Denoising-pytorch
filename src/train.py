@@ -4,7 +4,6 @@ import torch.optim as optim
 from .utils import add_noise
 import os
 
-
 def train(model,train_loader,device,epochs, learning_rate = 1e-3,noise_factor=0.5):
     '''
     Train the model 
