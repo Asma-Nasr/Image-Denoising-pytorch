@@ -5,7 +5,7 @@ Image Denoising Using Auto-Encoder
 ## Table of Contents
 
 - [Requirements](#requirements)
-- [Source-Code](#SourceCode)
+- [SourceCode](#SourceCode)
 - [Notebooks](#Notebooks)
 - [Usage](#usage)
 
@@ -15,7 +15,7 @@ You can install the required libraries using pip:
 ```bash
 pip install -r requirements.txt
 ```
-## Source-Code
+## SourceCode
 [Source Code](https://github.com/Asma-Nasr/Image-Denoising/tree/main/src)
 
 ## Notebooks
