@@ -7,6 +7,7 @@ Image Denoising Using Auto-Encoder
 - [Requirements](#requirements)
 - [SourceCode](#SourceCode)
 - [Notebooks](#Notebooks)
+- [Results](#Results)
 - [Usage](#usage)
 
 ## Requirements
@@ -20,6 +21,9 @@ pip install -r requirements.txt
 
 ## Notebooks
 [Notebooks](https://github.com/Asma-Nasr/Image-Denoising/tree/main/Notebooks)
+
+## Results
+![Results](https://github.com/Asma-Nasr/Image-Denoising/blob/main/Notebooks/output.png)
 
 ## Usage 
 
