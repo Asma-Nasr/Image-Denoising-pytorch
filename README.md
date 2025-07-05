@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 - Clone the repository and run locally:
 ```bash
-git clone https://github.com/Asma-Nasr/Image-Denoising.git
+git clone https://github.com/Asma-Nasr/Image-Denoising-pytorch.git
 ```
