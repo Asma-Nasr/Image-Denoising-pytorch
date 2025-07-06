@@ -1,7 +1,7 @@
 ## Image Denoising
 Image Denoising Using Auto-Encoder
 
- 
+  
 ## Table of Contents
 
 - [Requirements](#requirements)
